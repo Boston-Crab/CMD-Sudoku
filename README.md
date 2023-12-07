@@ -1,4 +1,4 @@
-# Terminal Sudoku game (being developed)
+# Terminal Sudoku game
 
 ### Rough expected feature list:
 
