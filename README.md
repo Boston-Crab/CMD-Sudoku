@@ -14,6 +14,5 @@
 
 Thought about and/or prepared ideas/functions for:
 
-1. Game State tracking
-2. Board printing
-3. Columns, Rows and Squares vacancy status checking
+1. Understood short coming of the first attempt
+2. Made a plan for a second approach "approach_2.py"
