@@ -12,7 +12,5 @@
 
 ### Current state:
 
-Thought about and/or prepared ideas/functions for:
-
-1. Understood short coming of the first attempt
-2. Made a plan for a second approach "approach_2.py"
+1. Understood short comings of the first attempt.
+2. Made a plan for a second approach "approach_2.py".
